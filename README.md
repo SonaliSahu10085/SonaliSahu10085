@@ -5,6 +5,9 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
 </p>
 
+<p align="center">
+<img src="https://cdnl.iconscout.com/lottie/free/preview/free-customer-service-chat-animation-download-in-lottie-json-gif-static-svg-file-formats--call-logo-center-support-pack-network-communication-animations-3205371.mp4" alt="coding" width="400"/>
+</p>
 ---
 
 - 🔭 I’m currently working on **MERN stack projects**

@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning **Docker, System Design & Advanced JavaScript**
 - 🤝 I’m looking to collaborate on **Open Source Web Projects**
 - 💬 Ask me about **Node.js, MongoDB, Java, and Tailwind CSS**
-- 📫 How to reach me: **sonalisahu10085@gmail.com**
-- ⚡ Fun fact: *I love solving logic puzzles and creating human-like stories in code!* ✨
+- 📫 How to reach me: **sonalisahu****@gmail.com**
 
 ---
 
@@ -36,10 +35,10 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/sonalisahu246" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sonalisahu10085@gmail.com" target="_blank">
+  <a href="mailto:sonalisahu****@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
   </a>
 </p>

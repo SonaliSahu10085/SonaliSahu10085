@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonali Sahu</h1>
-<h3 align="center">A passionate Web Developer and Backend Enthusiast from India</h3>
+<h3 align="center">A passionate Web Developer and NodeJS Backend Developer from India</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>

@@ -58,6 +58,13 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonalisahu10085&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
 
 ### ✨ Quote of the Day
 

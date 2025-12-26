@@ -17,7 +17,7 @@ Hi 👋 I'm Sonali Sahu
 ## 👩‍💻 About Me
 
 - 🎓 BCA Final Year Student (Kolhan University)
-- 💼 Backend Intern @ **Rablo.in**
+- 💼 Ex - Backend Intern @ **Rablo.in**
 - 🚀 Strong focus on **Node.js, Express & MongoDB**
 - 🔍 Love building **scalable REST APIs**
 - 🤝 Open to **entry-level roles & internships**
